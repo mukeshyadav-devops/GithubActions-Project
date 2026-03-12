@@ -748,7 +748,7 @@ public class App {
                     <i class="fas fa-calendar-star"></i>
                 </div>
                 <div class="date-content">
-                    <span class="date-label">🚀 Training Starts From</span>
+                    <span class="date-label">🚀 Successfully Deployed Project From</span>
                     <div class="date-main">29 January 2026</div>
                 </div>
             </div>
@@ -756,9 +756,9 @@ public class App {
     </section>
 
     <div class="container">
-        <!-- Training Highlights -->
+        <!-- Project Highlights -->
         <section class="section" id="highlights">
-            <h2 class="section-title">⭐ Training Highlights</h2>
+            <h2 class="section-title">⭐ Project Highlights</h2>
             <div class="stats-grid">
                 <div class="stat-card">
                     <div class="stat-icon"><i class="fas fa-calendar-check"></i></div>
